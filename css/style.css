@@ -1,0 +1,41 @@
+body{
+padding:50px;
+}
+
+.content{
+    margin:10px 0;
+}
+/*未勾選的標題樣式*/
+.title{
+    background-color: #00B7FE;
+    padding:10px 10px;
+    font-size:18px;
+    border-color: black;
+}
+/*已勾選的標題樣式*/
+.title2{
+    background-color: #00B7FE;
+    text-decoration:line-through;
+    padding:10px 10px;
+    font-size:18px;
+    border-color: black;
+}
+
+/*未勾選的內容樣式*/
+.message{
+    background-color: #dcf4fd;
+    border-color: black;
+    padding:10px 10px;
+}
+/*已勾選的內容樣式*/
+.message2{
+    background-color:#dcf4fd;
+    text-decoration:line-through;
+    border-color: black;
+    padding:10px 10px;
+}
+
+.i_btn{
+    float:right;
+    margin:1px;
+}
